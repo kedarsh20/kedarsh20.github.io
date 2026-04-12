@@ -25,10 +25,10 @@ My research centres on understanding the electronic, magnetic, and structural pr
 
 I completed my BS-MS Dual Degree in Physics at [IISER Thiruvananthapuram](https://www.iisertvm.ac.in), India, where my master's thesis explored the thermoelectric properties of half-Heusler compounds. 
 
-<I am a recipient of the **INSPIRE Fellowship** from the Department of Science and Technology (DST), India — a competitive national fellowship awarded for academic excellence in science.>
+<!--I am a recipient of the **INSPIRE Fellowship** from the Department of Science and Technology (DST), India — a competitive national fellowship awarded for academic excellence in science. -->
 
 Outside research, I am an active member of the [Toulouse Speakers Toastmasters](https://www.toastmasters.org) club, where I mentor members in communication and public speaking. 
-<I served as Athletic Captain at IISER Thiruvananthapuram (2014–2018) and was awarded the **Roll of Honour & Cultural Award** for contributions to volunteering, sports, and leadership.>
+<!--I served as Athletic Captain at IISER Thiruvananthapuram (2014–2018) and was awarded the **Roll of Honour & Cultural Award** for contributions to volunteering, sports, and leadership. -->
 
 ## News
 - **Jan 2025** — New paper published: [Single molecule thermal gearing effect](https://doi.org/10.1016/j.cplett.2025.142513), *Chemical Physics Letters*.
