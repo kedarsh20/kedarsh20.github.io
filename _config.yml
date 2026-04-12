@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kedar Sharma"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Toulouse, France"
-  employer         : "-"
+  employer         : #"-"
   uri              : # URL
   email            : "kedar.sharma3033@gmail.com" 
 
